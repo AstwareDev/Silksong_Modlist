@@ -84,7 +84,7 @@
     "name": "Silksong Text Modder",
     "author": "dr1",
     "desc": "A mod that allows editing, overriding, and creation of new text items of Silksong's internal data. This can be used to change dialogue, names, tutorial text, menu items, etc.",
-    "repo": "dr-0ne/SilkSongTextModder",
+    "downloadUrl": "https://thunderstore.io/package/download/dr1/Text_Modder/1.0.0/",
     "tags": [
       "Visual"
     ],
@@ -92,6 +92,11 @@
       "ConfigurationManager"
     ]
   },
+
+
+
+
+  
   {
     "id": "ModMenu",
     "name": "Mod Menu API",
