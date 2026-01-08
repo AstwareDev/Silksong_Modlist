@@ -100,12 +100,21 @@
     "repo": "xieedechunniunai/AnySilkBoss",
     "tags": ["Gameplay"],
     "dependencies": ["ConfigurationManager"]
-  }
+  },
 
 
 
 
   
+  {
+    "id": "PatchWork",
+    "name": "Patchwork",
+    "author": "Ashiepaws",
+    "desc": "A custom asset mod for Hollow Knight: Silksong with particular attention to ease of creation.",
+    "repo": "Ashiepaws/silksong-patchwork/",
+    "tags": ["Mod Dependency", "Library", "Asset Manager"],
+    "dependencies": ["ConfigurationManager"]
+  },
   {
     "id": "ModMenu",
     "name": "Mod Menu API",
