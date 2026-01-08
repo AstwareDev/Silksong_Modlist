@@ -92,6 +92,15 @@
       "ConfigurationManager"
     ]
   },
+  {
+    "id": "AnySilkBoss",
+    "name": "Any Silk Boss",
+    "author": "chunniunai",
+    "desc": "A BepInEx mod for Silksong that enhances SilkBoss behaviors and adds a Memory Mode.",
+    "repo": "xieedechunniunai/AnySilkBoss",
+    "tags": ['Gameplay'],
+    "dependencies": ["ConfigurationManager"]
+  }
 
 
 
