@@ -110,6 +110,15 @@
     "tags": ["Menu Modification"],
     "dependencies": ["ConfigurationManager"]
   },
+  {
+    "id": "NoEnemies",
+    "name": "No Enemies",
+    "author": "ykysnk",
+    "desc": "Nothing happened in Hollow Knight: Silksong",
+    "repo": "T2PeNBiX99wcoxKv3A4g/HKSS.NoEnemies",
+    "tags": ["Gameplay"],
+    "dependencies": ["ConfigurationManager", "BepInExUtils"]
+  },
 
 
 
