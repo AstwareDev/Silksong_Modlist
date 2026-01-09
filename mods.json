@@ -115,7 +115,7 @@
     "name": "No Enemies",
     "author": "ykysnk",
     "desc": "Nothing happened in Hollow Knight: Silksong",
-    "repo": "T2PeNBiX99wcoxKv3A4g/HKSS.NoEnemies",
+    "downloadUrl": "https://thunderstore.io/package/download/ykysnk/No_Enemies/0.0.7/",
     "tags": ["Gameplay"],
     "dependencies": ["ConfigurationManager", "BepInExUtils"]
   },
@@ -232,7 +232,7 @@
     "name": "BepInEx Utils",
     "author": "ykysnk",
     "desc": "Utils for BepinEx",
-    "repo": "T2PeNBiX99wcoxKv3A4g/BepinEx-Utils",
+    "downloadUrl": "https://thunderstore.io/package/download/ykysnk/BepinExUtils/1.0.2/",
     "tags": ["Mod Dependency", "Utility"],
     "dependency": ["ConfigurationManager"]
   }
