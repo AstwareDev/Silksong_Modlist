@@ -101,6 +101,15 @@
     "tags": ["Gameplay"],
     "dependencies": ["ConfigurationManager"]
   },
+  {
+    "id": "SSFQoL",
+    "name": "Silksong Focus QoL",
+    "author": "zlq",
+    "desc": "Pauses game and mutes audio when window loses focus; auto-unpauses within configurable time window.",
+    "downloadUrl": "https://thunderstore.io/package/download/zlq/SilksongFocusQoL/1.0.1/",
+    "tags": ["Menu Modification"],
+    "dependencies": ["ConfigurationManager"]
+  },
 
 
 
@@ -113,6 +122,15 @@
     "desc": "A custom asset mod for Hollow Knight: Silksong with particular attention to ease of creation.",
     "repo": "Ashiepaws/silksong-patchwork/",
     "tags": ["Mod Dependency", "Library", "Asset Manager"],
+    "dependencies": ["ConfigurationManager"]
+  },
+  {
+    "id": "FsmUtil",
+    "name": "FsmUtil",
+    "author": "silksong_modding",
+    "desc": "A library for mods to easily make changes to PlayMakerFSMs.",
+    "repo": "silksong-modding/Silksong.FsmUtil",
+    "tags": ["Mod Dependency", "Library"],
     "dependencies": ["ConfigurationManager"]
   },
   {
