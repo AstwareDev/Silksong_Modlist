@@ -28,6 +28,7 @@
   },
   {
     "id": "KnightInSS",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/shownyoung-KnightInSilksong-0.5.3.png.256x256_q95_crop.png",
     "name": "Knight In Silksong",
     "author": "shownyoung",
     "desc": "Adds the Knight from Hollow Knight as a playable character in Silksong.",
@@ -41,6 +42,7 @@
   },
   {
     "id": "DebugMod",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/hk_speedrunning-DebugMod-0.3.3.png.128x128_q95.png",
     "name": "Silksong Debug Mod",
     "author": "hk_speedrunning",
     "desc": "The premier practice tool for Silksong, ported from Hollow Knight's DebugMod.",
