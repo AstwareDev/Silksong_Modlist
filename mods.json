@@ -106,6 +106,7 @@
   },
   {
     "id": "SSFQoL",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/zlq-SilksongFocusQoL-1.0.1.png.128x128_q95.jpg",
     "name": "Silksong Focus QoL",
     "author": "zlq",
     "desc": "Pauses game and mutes audio when window loses focus; auto-unpauses within configurable time window.",
