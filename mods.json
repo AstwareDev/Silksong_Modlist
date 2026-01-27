@@ -123,6 +123,16 @@
     "tags": ["Gameplay"],
     "dependencies": ["ConfigurationManager", "BepInExUtils"]
   },
+  {
+    "id": "SDHB_SS",
+    "name": "Show Damage, HealthBar",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/XiaohaiMod-ShowDamage_HealthBar-2.0.4.png.128x128_q95.png",
+    "desc": "Displays enemy health bars and damage numbers when attacking enemies in the game.",
+    "author": "XiaohaiMod",
+    "downloadUrl": "https://thunderstore.io/package/download/XiaohaiMod/ShowDamage_HealthBar/2.0.4/",
+    "tags": ["Gameplay", "Visual"],
+    "dependencies": ["ConfigurationManager"]
+  },
 
 
 
