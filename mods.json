@@ -209,6 +209,16 @@
     "tags": ["Gameplay"],
     "dependencies": ["ConfigurationManager", "I18N"]
   },
+  {
+    "id": "QoL",
+    "name": "QoL",
+    "desc": "Quality of Life mod for silksong (mainly for speedrunners to save time)",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/Vitaxses-QoL-3.0.2.png.128x128_q95.jpg",
+    "author": "Vitaxses",
+    "repo": "Vitaxses/Silksong.QoL",
+    "tags": ["Gameplay"],
+    "dependencies": ["ConfigurationManager", "ModMenu", "FsmUtil"]
+  },
 
 
 
