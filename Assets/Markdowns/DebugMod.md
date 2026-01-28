@@ -11,8 +11,6 @@ For any questions or bug reports, please join the [Modding Discord](https://disc
 - [DebugMod for Silksong](#debugmod-for-silksong)
   - [Features](#features)
   - [Upcoming Features](#upcoming-features)
-  - [Installation](#installation)
-    - [Manual Installation](#manual-installation)
   - [Credits](#credits)
     - [Hollow Knight DebugMod](#hollow-knight-debugmod)
     - [Silksong DebugMod](#silksong-debugmod)
@@ -61,26 +59,6 @@ For any questions or bug reports, please join the [Modding Discord](https://disc
   - Give specific keys/items & bellway / ventrica access
   - Grant melodies & hearts
 - Expose some way for extensions to present their own UI in Main Panel. Currently they are only appended to the Keybinds list.
-
-## Installation
-
-DebugMod is distributed on [Thunderstore](https://thunderstore.io/c/hollow-knight-silksong/p/hk_speedrunning/DebugMod/) so any compatible installer can install it.
-We recommend [Gale](https://github.com/Kesomannen/gale/releases/tag/1.11.1), where you can search for DebugMod and install it directly to a profile & launch.
-
-Other compatible installers include [r2modman]() & [Thunderstore](https://get.thunderstore.io) (Overwolf).
-
-### Manual Installation 
-
-Required on MacOS as installers don't appear to support it. Instructions are for a Windows install using Steam.
-
-1) Download BepInEx from here: https://thunderstore.io/c/hollow-knight-silksong/p/BepInEx/BepInExPack_Silksong/
-1) Right click Silksong in Steam -> Properties -> Installed Files -> Browse...
-1) Copy the contents of the BepInEx zip into this folder (overwrite files if asked)
-1) Open and close the game once so BepInEx can generate its initial files
-1) Download `DebugMod_MANUAL.zip` from here: https://github.com/hk-speedrunning/Silksong.DebugMod/releases/latest
-1) Copy the DebugMod and Silksong.ModList folders into `BepInEx/plugins` in the game folder (overwrite files if asked)
-1) This mod should not affect saves negatively, but it is a good idea to back them up anyway.
-   Saves are located at `%AppData%/../LocalLow/Team Cherry/Hollow Knight Silksong`
 
 > [!IMPORTANT]
 > For moderation reasons, this mod requires [Silksong.ModList](https://github.com/silksong-modding/Silksong.ModList) to be installed. This mod is included in the [release download](<https://github.com/hk-speedrunning/Silksong.DebugMod/releases/latest>).
