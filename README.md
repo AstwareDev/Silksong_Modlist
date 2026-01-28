@@ -2,7 +2,7 @@
 
 <img src="Assets/Media/icon.png" alt="Nexus Forge Logo" width="150" height="150" />
 
-# Silksong Modlist
+# Nexus Forge | Silksong Modlist
 
 **Central database repository for the Nexus Forge Mod Manager.**
 
