@@ -15,6 +15,7 @@
   },
   {
     "id": "ModList",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/silksong_modding-Modlist-0.2.0.png.256x256_q95_crop.png",
     "name": "Silksong Modlist",
     "author": "silksong_modding",
     "desc": "A modlist for Silksong. That's it!",
@@ -57,6 +58,7 @@
   },
   {
     "id": "SSTrueAim",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/Fabulator_K-SilksongTrueAim-1.0.4.png.256x256_q95_crop.png",
     "name": "Silksong True Aim",
     "author": "Fabulator_K",
     "desc": "An aiming overlay for left stick input visualization and more. Customizable, animated, and supports eight localizations. Toggle with L3 (Controller left stick click or F8* on keyboard.",
@@ -70,6 +72,7 @@
   },
   {
     "id": "Architect",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/cometcake575-Architect-3.11.3.png.256x256_q95_crop.png",
     "name": "Architect Mod",
     "author": "cometcake575",
     "desc": "The Silksong level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
@@ -84,6 +87,7 @@
   },
   {
     "id": "TextModder",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/dr1-Text_Modder-1.0.2.png.256x256_q95_crop.jpg",
     "name": "Silksong Text Modder",
     "author": "dr1",
     "desc": "A mod that allows editing, overriding, and creation of new text items of Silksong's internal data. This can be used to change dialogue, names, tutorial text, menu items, etc.",
@@ -97,6 +101,7 @@
   },
   {
     "id": "AnySilkBoss",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/chunniunai-AnySilkBoss-0.2.0.png.256x256_q95_crop.jpg",
     "name": "Any Silk Boss",
     "author": "chunniunai",
     "desc": "A BepInEx mod for Silksong that enhances SilkBoss behaviors and adds a Memory Mode.",
@@ -116,6 +121,7 @@
   },
   {
     "id": "NoEnemies",
+    "image": "",
     "name": "No Enemies",
     "author": "ykysnk",
     "desc": "Nothing happened in Hollow Knight: Silksong",
