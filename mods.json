@@ -169,6 +169,16 @@
     "tags": ["Automation", "Visual"],
     "dependencies": ["ConfigurationManager"]
   },
+  {
+    "id": "CrossStitchMadness",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/Cmdpro-CrossStitchMadness-1.1.1.png.128x128_q95.png",
+    "name": "Cross Stitch Madness",
+    "desc": "Turns silksong into a parry-focused game focused around Cross Stitch",
+    "author": "Cmdpro",
+    "downloadUrl": "https://thunderstore.io/package/download/Cmdpro/CrossStitchMadness/1.1.1/",
+    "tags": ["Gameplay"],
+    "dependencies": ["ConfigurationManager", "FsmUtil"]
+  },
 
 
 
