@@ -6,18 +6,6 @@ The main purpose of this mod is to allow people to host games and let others joi
 There is a dedicated [Discord server](https://discord.gg/KbgxvDyzHP) for the mod where you can ask questions or generally talk about the mod.
 Moreover, you can leave suggestions or bug reports. The latest announcements will be posted there.
 
-## Install
-### Thunderstore
-When using an installer that is compatible with Thunderstore, everything should work auto-magically.
-
-### Manual install
-SSMP works with the [BepInExPack for Silksong](https://thunderstore.io/c/hollow-knight-silksong/p/BepInEx/BepInExPack_Silksong/) 
-found on the [Silksong Thunderstore community](https://thunderstore.io/c/hollow-knight-silksong).
-Follow the instructions for the BepInExPack on Thunderstore and once completed, do the following:
-- Make a new directory named `SSMP` in the BepInEx plugins folder found: `path\to\Hollow Knight Silksong\BepInEx\plugins\`
-- Unzip the `SSMP.zip` file from the [releases](https://github.com/Extremelyd1/SSMP/releases) into this new directory
-  - Make sure that all `.dll` files are in the `SSMP` directory without any additional directories
-
 ## Usage
 The mod can be accessed by using the "Start Multiplayer" option in the main menu of the game.
 Once in the multiplayer menu, there is an option to host a game on the entered port and an option to join a game at the entered address and entered port.
