@@ -26,8 +26,10 @@ For any questions or bug reports, please join the [Modding Discord](https://disc
       wish & journal progress, world state & much more.
   - Automatically load savestate on death for instant retries.
   - Store savestates to file, and use third-party savestate packs to practice easily.
-  > [!WARNING]
-  > Loading savestates **_will overwrite your savefile_** with no undo option!
+
+> [!WARNING]
+> Loading savestates **_will overwrite your savefile_** with no undo option!
+
 - ### Gameplay:
   - Infinite health/silk, Invincibility, noclip & others.
   - Change & freeze timescale, advance frame-by-frame.
