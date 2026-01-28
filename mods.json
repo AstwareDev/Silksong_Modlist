@@ -199,6 +199,16 @@
     "tags": ["Gameplay"],
     "dependencies": ["ConfigurationManager"]
   },
+  {
+    "id": "UnluckyLumble",
+    "name": "Unlucky Lumble",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/danielstegink-UnluckyLumble-0.1.1.png.128x128_q95.png",
+    "desc": "Increases the chance of winning against Lumble",
+    "author": "danielstegink",
+    "repo": "danielstegink/Silksong.UnluckyLumble",
+    "tags": ["Gameplay"],
+    "dependencies": ["ConfigurationManager", "I18N"]
+  },
 
 
 
@@ -301,6 +311,16 @@
     "tags": [
       "Mod Dependency"
     ],
+    "dependencies": []
+  },
+  {
+    "id": "I18N",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/silksong_modding-I18N-1.0.2.png.128x128_q95.png",
+    "name": "I18N",
+    "desc": "A Hollow Knight: Silksong mod that automatically loads localized text for other mods.",
+    "author": "silksong_modding",
+    "repo": "silksong-modding/Silksong.I18N",
+    "tags": ["Mod Dependency", "Localization"],
     "dependencies": []
   },
   {
