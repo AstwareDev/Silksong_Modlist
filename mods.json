@@ -189,6 +189,16 @@
     "tags": ["Gameplay"],
     "dependencies": ["ConfigurationManager"]
   },
+  {
+    "id": "NeedleSwapper",
+    "name": "Needle Swapper",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/itsschwer-NeedleSwapper-0.3.0.png.128x128_q95.png",
+    "desc": "A small mod that allows you to downgrade (change) which Needle upgrade Hornet uses.",
+    "author": "itsschwer",
+    "repo": "itsschwer/silksong-needle-swapper",
+    "tags": ["Gameplay"],
+    "dependencies": ["ConfigurationManager"]
+  },
 
 
 
