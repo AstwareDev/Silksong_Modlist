@@ -186,6 +186,7 @@
   },
   {
     "id": "FsmUtil",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/silksong_modding-FsmUtil-0.3.12.png.256x256_q95_crop.png",
     "name": "FsmUtil",
     "author": "silksong_modding",
     "desc": "A library for mods to easily make changes to PlayMakerFSMs.",
@@ -195,6 +196,7 @@
   },
   {
     "id": "ModMenu",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/silksong_modding-ModMenu-0.2.0.png.256x256_q95_crop.png",
     "name": "Mod Menu API",
     "desc": "API for extending Silksong Menus",
     "author": "silksong_modding",
@@ -210,6 +212,7 @@
   },
   {
     "id": "SkongGamemodes",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/DerVorce-SkongGamemodes-1.2.0.png.128x128_q95.png",
     "name": "Skong Gamemodes",
     "desc": "Library that allows you to make a new gamemode in a few lines of code.",
     "author": "skongdev",
@@ -235,6 +238,7 @@
   },
   {
     "id": "MonoDetour",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/MonoDetour-MonoDetour_BepInEx_5-0.7.10.png.256x256_q95_crop.png",
     "name": "MonoDetour",
     "desc": "HarmonyX interop & BepInEx 5 logger integration for MonoDetour. Initializes MonoDetour early as a side effect.",
     "author": "MonoDetour",
@@ -259,6 +263,7 @@
   },
   {
     "id": "UnityHelper",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/silksong_modding-UnityHelper-1.1.1.png.256x256_q95_crop.png",
     "name": "Unity Helper",
     "author": "silksong_modding",
     "desc": "Library containing utility functions associated with Unity objects.",
@@ -270,6 +275,7 @@
   },
   {
     "id": "ConfigurationManager",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/Azumatt-Official_BepInEx_ConfigurationManager-18.4.1.png.256x256_q95.png",
     "name": "BepInEx Configuration Manager",
     "author": "jakobhellermann",
     "desc": "In-Game Plugin configuration manager for BepInEx",
@@ -282,6 +288,7 @@
   },
   {
     "id": "BepInExUtils",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/ykysnk-BepinExUtils-1.0.2.png.256x256_q95_crop.png",
     "name": "BepInEx Utils",
     "author": "ykysnk",
     "desc": "Utils for BepinEx",
