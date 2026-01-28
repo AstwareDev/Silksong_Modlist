@@ -10,12 +10,12 @@
 <p>
   <!-- 1. Website Redirect -->
   <a href="https://YOUR_WEBSITE_LINK_HERE">
-    <img src="https://img.shields.io/badge/Website-Nexus%20Forge-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-Nexus-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   
   <!-- 2. Download Manager -->
   <a href="https://YOUR_DOWNLOAD_LINK_HERE">
-    <img src="https://img.shields.io/badge/Download-Manager-success?style=for-the-badge&logo=windows&logoColor=white" alt="Download" />
+    <img src="https://img.shields.io/badge/Download-Nexus%20Forge-success?style=for-the-badge&logo=windows&logoColor=white" alt="Download" />
   </a>
 
   <!-- 3. Open Database -->
