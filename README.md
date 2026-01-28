@@ -8,39 +8,39 @@
 
 <p>
   <a href="https://github.com/AstwareDev/Silksong_Modlist/blob/main/mods.json">
-    <img src="https://img.shields.io/badge/Data-mods.json-blue?style=for-the-badge&logo=json" alt="JSON Data" />
+    <img src="https://img.shields.io/badge/Database-Live-success?style=for-the-badge&logo=mongodb" alt="Database Live" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Game-Silksong-red?style=for-the-badge&logo=nintendo" alt="Game" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Status-Ready-success?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Timeline-2026-blueviolet?style=for-the-badge" alt="Current Year" />
   </a>
 </p>
 
 <p>
-    <b>The backend repository feeding the Nexus Forge Mod Manager.</b><br>
-    <i>"We are ready before the game is."</i>
+    <b>The master repository feeding the Nexus Forge Mod Manager.</b><br>
+    <i>Enhancing Pharloom since launch day.</i>
 </p>
 
 </div>
 
 ---
 
-## 🕷️ About
+## 🧶 About
 
-This repository serves as the **remote database** for the Silksong Mod Manager (Nexus Forge). It acts as a Content Delivery Network (CDN) containing the master list of available mods and their cached documentation.
+This repository serves as the **remote database** for the Nexus Forge Mod Manager. It acts as the backbone for the community, delivering the master list of mods, dependency trees, and cached documentation to thousands of Weavers daily.
 
-By decoupling the data from the application, we can update the mod list dynamically without requiring users to update the Nexus Forge executable.
+By decoupling the data from the application, Nexus Forge receives real-time updates on new mods (like the inevitable *Zoteboat DLC* or *Fishing Minigame Fixes*) without requiring an app update.
 
 ## 📂 Repository Structure
 
-The architecture is kept simple for fast fetching and easy maintenance.
+The architecture is streamlined for high-speed fetching.
 
 ```text
 Silksong_Modlist/
-├── 📄 mods.json            # The Master List. Contains metadata, versions, and download links.
+├── 📄 mods.json            # The Master List. Metadata, versioning, and direct download links.
 ├── 📂 Assets/
-│   ├── 📂 Markdowns/       # Local copies of Mod READMEs (for offline viewing/caching).
-│   └── 📂 Media/           # Icons and visual assets for the Manager UI.
-└── 📄 README.md            # You are here.
+│   ├── 📂 Markdowns/       # Cached READMEs (for viewing mod details inside the Manager).
+│   └── 📂 Media/           # Icons and visual assets used by the Manager UI.
+└── 📄 README.md            # Documentation.
