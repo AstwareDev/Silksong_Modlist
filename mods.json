@@ -121,7 +121,7 @@
   },
   {
     "id": "NoEnemies",
-    "image": "",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/ykysnk-No_Enemies-0.0.7.png.256x256_q95_crop.png",
     "name": "No Enemies",
     "author": "ykysnk",
     "desc": "Nothing happened in Hollow Knight: Silksong",
@@ -137,6 +137,26 @@
     "author": "XiaohaiMod",
     "downloadUrl": "https://thunderstore.io/package/download/XiaohaiMod/ShowDamage_HealthBar/2.0.4/",
     "tags": ["Gameplay", "Visual"],
+    "dependencies": ["ConfigurationManager"]
+  },
+  {
+    "id": "NoShardCap",
+    "name": "No Shards Cap",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/danielstegink-NoShardCap-0.1.0.png.128x128_q95.png",
+    "desc": "Removes the cap on Shell Shards",
+    "author": "danielstegink",
+    "downloadUrl": "https://thunderstore.io/package/download/danielstegink/NoShardCap/0.1.0/",
+    "tags": ["Inventory", "Gameplay"],
+    "dependencies": ["ConfigurationManager"]
+  },
+  {
+    "id": "SimpleDeathCounter",
+    "name": "Simple Death Counter",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/Nordbo-SimpleDeathCounter-0.2.0.png.256x256_q95_crop.png",
+    "desc": "A tiny on-screen death counter that just works, with a little animation when you die, with a config that updates in real time without having to restart the game to take effect",
+    "author": "Nordbo",
+    "downloadUrl": "https://thunderstore.io/package/download/Nordbo/SimpleDeathCounter/0.2.0/",
+    "tags": ["Visual"],
     "dependencies": ["ConfigurationManager"]
   },
 
