@@ -179,6 +179,16 @@
     "tags": ["Gameplay"],
     "dependencies": ["ConfigurationManager", "FsmUtil"]
   },
+  {
+    "id": "HornetAddict",
+    "name": "Addict Hornet",
+    "desc": "This mod turns Hornet into an addict who can attack by throwing empty bottles at enemies.",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/fabbeyond-HornetAddict-1.2.1.png.128x128_q95.png",
+    "author": "fabbeyond",
+    "downloadUrl": "https://thunderstore.io/package/download/fabbeyond/HornetAddict/1.2.1/",
+    "tags": ["Gameplay"],
+    "dependencies": ["ConfigurationManager"]
+  },
 
 
 
