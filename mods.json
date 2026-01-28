@@ -159,6 +159,16 @@
     "tags": ["Visual"],
     "dependencies": ["ConfigurationManager"]
   },
+  {
+    "id": "CompletionistMap",
+    "name": "Completionist Map",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/Yoraiz0r-Completionist_Map-1.0.3.png.256x256_q95_crop.jpg",
+    "desc": "A Hollow Knight: Silksong mod that adds automatically tracked pins for almost all items, interactables & enemies on the map.",
+    "author": "Yoraiz0r",
+    "downloadUrl": "https://thunderstore.io/package/download/Yoraiz0r/Completionist_Map/1.0.3/",
+    "tags": ["Automation", "Visual"],
+    "dependencies": ["ConfigurationManager"]
+  },
 
 
 
