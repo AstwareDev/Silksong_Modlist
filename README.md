@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/Media/icon_transparent.png" alt="Nexus Forge Logo" width="150" height="150" />
+<img src="Assets/Media/icon.png" alt="Nexus Forge Logo" width="150" height="150" />
 
 # Silksong Modlist
 
