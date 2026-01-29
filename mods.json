@@ -11,7 +11,8 @@
     ],
     "dependencies": [
       "ConfigurationManager"
-    ]
+    ],
+    "readme": "https://raw.githubusercontent.com/AstwareDev/Silksong_Modlist/refs/heads/main/Assets/Markdowns/SSMP.md"
   },
   {
     "id": "ModList",
@@ -25,7 +26,8 @@
     ],
     "dependencies": [
       "ConfigurationManager"
-    ]
+    ],
+    "readme": "https://raw.githubusercontent.com/AstwareDev/Silksong_Modlist/refs/heads/main/Assets/Markdowns/Modlist.md"
   },
   {
     "id": "KnightInSS",
@@ -54,7 +56,8 @@
     "dependencies": [
       "ConfigurationManager",
       "ModList"
-    ]
+    ],
+    "readme": "https://raw.githubusercontent.com/AstwareDev/Silksong_Modlist/refs/heads/main/Assets/Markdowns/DebugMod.md"
   },
   {
     "id": "SSTrueAim",
