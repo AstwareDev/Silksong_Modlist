@@ -224,6 +224,16 @@
     "tags": ["Gameplay"],
     "dependencies": ["ConfigurationManager", "ModMenu", "FsmUtil"]
   },
+  {
+    "id": "AltCrest",
+    "name": "Alternate Crests",
+    "desc": "Store an alternate Crest, to swap to and from, whenever you want.",
+    "image": "https://gcdn.thunderstore.io/live/repository/icons/vice-AlternateCrests-0.1.5.png.128x128_q95.png",
+    "author": "vice",
+    "downloadUrl": "https://thunderstore.io/package/download/vice/AlternateCrests/0.1.5/",
+    "tags": ["Gameplay"],
+    "dependencies": ["ConfigurationManager"]
+  },
 
 
 
