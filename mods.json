@@ -172,7 +172,8 @@
     "author": "Yoraiz0r",
     "downloadUrl": "https://thunderstore.io/package/download/Yoraiz0r/Completionist_Map/1.0.3/",
     "tags": ["Automation", "Visual"],
-    "dependencies": ["ConfigurationManager"]
+    "dependencies": ["ConfigurationManager"],
+    "readme": "https://github.com/AstwareDev/Silksong_Modlist/raw/refs/heads/main/Assets/Markdowns/CompletionistMap.md"
   },
   {
     "id": "CrossStitchMadness",
