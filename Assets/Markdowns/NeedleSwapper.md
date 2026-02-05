@@ -1,4 +1,4 @@
-# NEedle Swapper
+# Needle Swapper
 
 A small mod that allows you to change which Needle upgrade Hornet uses.
 
